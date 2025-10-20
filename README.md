@@ -22,4 +22,4 @@ This project uses the "Telco Customer Churn" dataset, which is publicly availabl
 - Scikit-learn
 - Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LfYBsWyZwxeafyc6xMA9cTrcchrkdRn_?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gooddinosaur/customer-churn-prediction/blob/main/Customer_Churn.ipynb)
